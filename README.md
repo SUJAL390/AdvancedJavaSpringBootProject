@@ -25,7 +25,7 @@ Getting Started
 1. Clone the repository
    
 Clone this repository to your local machine using:
-git clone https://github.com/your-username/AdvancedJavaSpringBootProject.git
+git clone https://github.com/SUJAL390/AdvancedJavaSpringBootProject.git
 
 
 3. Set up MySQL Database
